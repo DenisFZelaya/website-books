@@ -1,0 +1,9 @@
+configuracion basica
+    Instarlar npm init
+    npm express
+    npm express-generator
+    express --views=ejs // Generar las carpetas iniciales de un proyecto
+    npm install cookie-parser
+instalar db mysql
+    npm install mysql
+
